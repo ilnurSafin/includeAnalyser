@@ -12,6 +12,6 @@ Compiler Migw64 10.2.0<br>
 Пример1(анализа самого проекта):   analyser "c:\Projects\CLionProjects\includeAnalyser\" -I "C:\Program Files\MSYS2\mingw64\include\c++\10.2.0"<br>
 Вывод1: см. log1.txt<br>
 Пример2(анализа самого проекта без указания пути к библиотеке/ам):   analyser "c:\Projects\CLionProjects\includeAnalyser\"<br>
-Вывод2: см. log2.txt
-
+Вывод2: см. log2.txt<br>
+<br>
 PS: тестировал только под win10

@@ -1,0 +1,62 @@
+"CMakeCXXCompilerId.cpp"
+"IncludeAnalyser.cpp"
+.."IncludeAnalyser.h"
+...."string" (!)
+...."vector" (!)
+...."filesystem" (!)
+...."map" (!)
+.."iostream" (!)
+.."fstream" (!)
+.."string" (!)
+.."vector" (!)
+.."filesystem" (!)
+.."algorithm" (!)
+.."map" (!)
+.."sstream" (!)
+"main.cpp"
+.."InputParser.h"
+...."vector" (!)
+...."string" (!)
+...."exception" (!)
+...."filesystem" (!)
+.."IncludeAnalyser.h"
+...."string" (!)
+...."vector" (!)
+...."filesystem" (!)
+...."map" (!)
+.."iostream" (!)
+.."string" (!)
+.."fstream" (!)
+.."vector" (!)
+.."filesystem" (!)
+.."algorithm" (!)
+.."map" (!)
+"some1.cpp"
+.."abc.h"
+...."foo.h"
+......"ggggggggg.h" (!)
+"some2.cpp"
+"some3.cpp"
+"some4.cpp"
+
+"filesystem" 5
+"string" 5
+"vector" 5
+"map" 4
+"algorithm" 2
+"fstream" 2
+"IncludeAnalyser.h" 2
+"iostream" 2
+"abc.h" 1
+"exception" 1
+"foo.h" 1
+"ggggggggg.h" 1
+"InputParser.h" 1
+"sstream" 1
+"CMakeCXXCompilerId.cpp" 0
+"IncludeAnalyser.cpp" 0
+"main.cpp" 0
+"some1.cpp" 0
+"some2.cpp" 0
+"some3.cpp" 0
+"some4.cpp" 0
